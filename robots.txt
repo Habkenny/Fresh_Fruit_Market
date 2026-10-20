@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\n\n# Replace example.com with your real domain before publishing.\nSitemap: https://example.com/sitemap.xml\n
